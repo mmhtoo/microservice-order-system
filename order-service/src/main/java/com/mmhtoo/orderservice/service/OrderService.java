@@ -1,6 +1,6 @@
 package com.mmhtoo.orderservice.service;
 
-import com.mmhtoo.orderservice.controller.InventoryRequestDto;
+import com.mmhtoo.orderservice.dto.InventoryRequestDto;
 import com.mmhtoo.orderservice.dto.OrderCreateRequestDto;
 import com.mmhtoo.orderservice.dto.OrderItemRequestDto;
 import com.mmhtoo.orderservice.entity.OrderEntity;

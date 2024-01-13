@@ -1,4 +1,4 @@
-package com.mmhtoo.orderservice.controller;
+package com.mmhtoo.orderservice.dto;
 
 public record InventoryRequestDto (
     String productId,
